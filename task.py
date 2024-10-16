@@ -34,3 +34,4 @@ else:
         if choice1 == "p":
             if choice2 == "s":
                 print("You lose " +name1 + " Scissors beats Paper!")
+print ("game over successfully!!!")
